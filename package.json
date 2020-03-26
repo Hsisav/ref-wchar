@@ -30,7 +30,7 @@
   "homepage": "https://github.com/TooTallNate/ref-wchar",
   "dependencies": {
     "iconv": "2",
-    "ref": "github:lxe/ref#node-12"
+    "ref": "github:Hsisav/ref_electron_8"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
